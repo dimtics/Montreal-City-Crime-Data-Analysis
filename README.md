@@ -8,4 +8,4 @@ In this project, I analyzed Montreal city crime data (2015 - 2017) with a goal o
 5. Which top 5 police stations (PDQ) got the most crime complaints in 2015, 2016 and 2017?
 6. Which are the top 3 PDQs that got least crime complaints in 2015, 2016 and 2017?
 
-To run the jupyter notebook, install the required packages as stated in the *requirement.txt* file. You can view the jupyter notebook at: http://nbviewer.jupyter.org/github/dimtics/Montreal-City-Crime-Data-Analysis/blob/master/Montreal-City-Crime-Data-Analysis.ipynb
+To run the jupyter notebook, install the required packages in the *requirement.txt* file. You can also view the jupyter notebook at: http://nbviewer.jupyter.org/github/dimtics/Montreal-City-Crime-Data-Analysis/blob/master/Montreal-City-Crime-Data-Analysis.ipynb
